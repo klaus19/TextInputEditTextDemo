@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:inputType="phone"
             android:maxLines="1"
-            android:minEms="2"
+            android:minEms="9"
             android:padding="6dp"
             android:singleLine="true"
             android:textCursorDrawable="@drawable/edit_text_cursor" />
